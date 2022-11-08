@@ -1,0 +1,1813 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/2020.3.4f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/kevinarzate/Documents/Kev/MotoresDeVideojuegos
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58029
+Successfully changed project path to: /Users/kevinarzate/Documents/Kev/MotoresDeVideojuegos
+/Users/kevinarzate/Documents/Kev/MotoresDeVideojuegos
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 41.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path /Applications/Unity/2020.3.4f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/kevinarzate/Documents/Kev/MotoresDeVideojuegos/Assets
+GfxDevice: creating device client; threaded=0
+2022-11-01 19:19:09.831 Unity[22802:845055] CASIO-PJ preferred device: AMD Radeon Pro 5300M (high power)
+2022-11-01 19:19:09.831 Unity[22802:845055] Metal devices available: 2
+2022-11-01 19:19:09.831 Unity[22802:845055] 0: AMD Radeon Pro 5300M (high power)
+2022-11-01 19:19:09.831 Unity[22802:845055] 1: Intel(R) UHD Graphics 630 (low power)
+2022-11-01 19:19:09.831 Unity[22802:845055] Using device AMD Radeon Pro 5300M (high power)
+Initializing Metal device caps: AMD Radeon Pro 5300M
+Initialize mono
+Mono path[0] = '/Applications/Unity/2020.3.4f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/2020.3.4f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/2020.3.4f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56802
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/2020.3.4f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/2020.3.4f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000546 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 47.09 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.756 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000626 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.921 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/2020.3.4f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1203 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.0 MB.
+System memory in use after: 186.8 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1667.
+Total: 2.564706 ms (FindLiveObjects: 0.242204 ms CreateObjectMapping: 0.085117 ms MarkObjects: 1.886341 ms  DeleteObjects: 0.349950 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/RevisionExamen/PersonajeDisparo.cs
+  artifactKey: Guid(b3873183bafb84337973de9bc1ee34be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RevisionExamen/PersonajeDisparo.cs using Guid(b3873183bafb84337973de9bc1ee34be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46d3c910ac6f7e600b0a37ce6bbfbc11') in 0.249223 seconds
+  Import took 0.252022 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000625 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.959 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1172 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 190.5 MB.
+System memory in use after: 190.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1670.
+Total: 2.179903 ms (FindLiveObjects: 0.196379 ms CreateObjectMapping: 0.093144 ms MarkObjects: 1.576628 ms  DeleteObjects: 0.312723 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 217.226924 seconds.
+  path: Assets/Scripts/RevisionExamen/PersonajeDisparo.cs
+  artifactKey: Guid(b3873183bafb84337973de9bc1ee34be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RevisionExamen/PersonajeDisparo.cs using Guid(b3873183bafb84337973de9bc1ee34be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc5c956bcced6a7d07430d2069061c21') in 0.003902 seconds
+  Import took 0.006634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.991173 seconds.
+  path: Assets/Scripts/RevisionExamen/PersonajeDisparo.cs
+  artifactKey: Guid(b3873183bafb84337973de9bc1ee34be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RevisionExamen/PersonajeDisparo.cs using Guid(b3873183bafb84337973de9bc1ee34be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc5c956bcced6a7d07430d2069061c21') in 0.001575 seconds
+  Import took 0.003931 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000606 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.927 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1172 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 192.6 MB.
+System memory in use after: 192.4 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1673.
+Total: 2.124970 ms (FindLiveObjects: 0.171038 ms CreateObjectMapping: 0.040980 ms MarkObjects: 1.593149 ms  DeleteObjects: 0.318773 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000479 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.925 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1172 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 194.6 MB.
+System memory in use after: 194.4 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1676.
+Total: 1.788406 ms (FindLiveObjects: 0.211526 ms CreateObjectMapping: 0.041188 ms MarkObjects: 1.244183 ms  DeleteObjects: 0.290495 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000666 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.969 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1172 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 196.5 MB.
+System memory in use after: 196.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1679.
+Total: 2.062600 ms (FindLiveObjects: 0.220206 ms CreateObjectMapping: 0.043057 ms MarkObjects: 1.458937 ms  DeleteObjects: 0.338879 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000931 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.003 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1172 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 198.5 MB.
+System memory in use after: 198.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1682.
+Total: 2.109557 ms (FindLiveObjects: 0.261501 ms CreateObjectMapping: 0.051559 ms MarkObjects: 1.451587 ms  DeleteObjects: 0.343095 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000732 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.986 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1172 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 200.5 MB.
+System memory in use after: 200.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1685.
+Total: 2.017987 ms (FindLiveObjects: 0.150581 ms CreateObjectMapping: 0.037654 ms MarkObjects: 1.486701 ms  DeleteObjects: 0.342085 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001582 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.984 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1172 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 201.1 MB.
+System memory in use after: 200.9 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1688.
+Total: 2.229276 ms (FindLiveObjects: 0.163823 ms CreateObjectMapping: 0.040293 ms MarkObjects: 1.544321 ms  DeleteObjects: 0.479863 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000622 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.945 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1172 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 203.2 MB.
+System memory in use after: 202.9 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1691.
+Total: 2.187262 ms (FindLiveObjects: 0.156252 ms CreateObjectMapping: 0.068430 ms MarkObjects: 1.487459 ms  DeleteObjects: 0.473887 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 813.436569 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_BookCase_Base_A.prefab
+  artifactKey: Guid(efb63a8d522ef0f40a74953e77451420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_BookCase_Base_A.prefab using Guid(efb63a8d522ef0f40a74953e77451420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'badb62ab9430a3191ce774ce3fcbfc9e') in 1.129807 seconds
+  Import took 1.133591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Curb_A_4x.prefab
+  artifactKey: Guid(b89a388397525b24d9d43596612f1565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Curb_A_4x.prefab using Guid(b89a388397525b24d9d43596612f1565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e249afae82b30704e1ef576ffcc62e6') in 0.030147 seconds
+  Import took 0.032879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_Garlic_A.prefab
+  artifactKey: Guid(376f89852efbc02488f4f4ea5ee56e86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_Garlic_A.prefab using Guid(376f89852efbc02488f4f4ea5ee56e86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d50ba70464ac64a6d1f4121ce01d3c7') in 0.023422 seconds
+  Import took 0.026298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Fullwall_Deco_A.prefab
+  artifactKey: Guid(52f6070f8fb221346953a531ca5d315e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Fullwall_Deco_A.prefab using Guid(52f6070f8fb221346953a531ca5d315e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ec167dd9f17477f5a012b9f64986020') in 0.220146 seconds
+  Import took 0.223489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Rail_Junc_B.prefab
+  artifactKey: Guid(aa6fa5d4606f2d94ea5b8dfde3834324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Rail_Junc_B.prefab using Guid(aa6fa5d4606f2d94ea5b8dfde3834324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b82ea5b80302e11209aa58754e91f8a1') in 0.359401 seconds
+  Import took 0.363136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Sun_Temple/Prefabs/Natural/Rock_Long.prefab
+  artifactKey: Guid(f4446ed5efdd3094eb3baaec9320b5d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Natural/Rock_Long.prefab using Guid(f4446ed5efdd3094eb3baaec9320b5d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55e71657b00958b44f544455b2ea32d9') in 0.084544 seconds
+  Import took 0.087713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_GrainSack_B.prefab
+  artifactKey: Guid(95404c6d60b35a644bf61a49ca89fc4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_GrainSack_B.prefab using Guid(95404c6d60b35a644bf61a49ca89fc4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '003062ba3d613331dbcf5abd271c65e5') in 0.019024 seconds
+  Import took 0.021429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Rail_Mid_C.prefab
+  artifactKey: Guid(ee1bec030086fa142af5e7563457de47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Rail_Mid_C.prefab using Guid(ee1bec030086fa142af5e7563457de47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fa4d3ff10a838cbbd291b0db8bc6944') in 0.181633 seconds
+  Import took 0.184416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Ramp_A.prefab
+  artifactKey: Guid(fbe92f6cb797c7f4ba6050de1bdda7b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Ramp_A.prefab using Guid(fbe92f6cb797c7f4ba6050de1bdda7b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53c93511e0cb7a63fae9dccb86d4172a') in 0.226930 seconds
+  Import took 0.229771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Curb_H.prefab
+  artifactKey: Guid(8288832cd9cd4704d8260fda2ef5503c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Curb_H.prefab using Guid(8288832cd9cd4704d8260fda2ef5503c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c19ca84387acc174b88d2308bcc15bee') in 0.179769 seconds
+  Import took 0.182600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_Sofa_C.prefab
+  artifactKey: Guid(ee030b0ec84e4cb4199f6eea85012a80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_Sofa_C.prefab using Guid(ee030b0ec84e4cb4199f6eea85012a80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94de5aba3412f2ba4ece56903e338379') in 0.147061 seconds
+  Import took 0.149874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Curb_C.prefab
+  artifactKey: Guid(55b733862c0e9954eadf57c6818083d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Curb_C.prefab using Guid(55b733862c0e9954eadf57c6818083d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22b3568065f89e94475ff5bd7cb9052f') in 0.018333 seconds
+  Import took 0.021081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Fullwall_Cor_B.prefab
+  artifactKey: Guid(ada94138cbc224e4091c6f658b0b09f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Fullwall_Cor_B.prefab using Guid(ada94138cbc224e4091c6f658b0b09f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c25c496f87fea23c49ae444f4ecf424f') in 0.145831 seconds
+  Import took 0.148490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Sun_Temple/Prefabs/Natural/Prop_Stone_Med_A.prefab
+  artifactKey: Guid(755348ff6780ec84fbf08c90e01e56d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Natural/Prop_Stone_Med_A.prefab using Guid(755348ff6780ec84fbf08c90e01e56d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02238baf5e29ab4db559346087f30f19') in 0.050344 seconds
+  Import took 0.053382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_FoodBasket_C.prefab
+  artifactKey: Guid(f32e87d0f1c9872499206c638d190d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_FoodBasket_C.prefab using Guid(f32e87d0f1c9872499206c638d190d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3f89698e9d40436fc793eafb1b4998a') in 0.029910 seconds
+  Import took 0.032862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/GothicUI/Prefabs/Buttons/TinyLightBorderButton.prefab
+  artifactKey: Guid(fd9601cb549f76c44835d8be0f212bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicUI/Prefabs/Buttons/TinyLightBorderButton.prefab using Guid(fd9601cb549f76c44835d8be0f212bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3db12ca3e4c397b7de94f0c73d881d7c') in 0.031335 seconds
+  Import took 0.033948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_BookCase_D.prefab
+  artifactKey: Guid(54b56c90e9469cb478745bbb2779588f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_BookCase_D.prefab using Guid(54b56c90e9469cb478745bbb2779588f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6ceff5a96d777418c24455034d3cb26') in 0.068987 seconds
+  Import took 0.071907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_Sofa_D.prefab
+  artifactKey: Guid(9e82725a488a8094b9cbd49420058692) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_Sofa_D.prefab using Guid(9e82725a488a8094b9cbd49420058692) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13a4eb55bbbdb8ae01bf96e324fd86e0') in 0.106906 seconds
+  Import took 0.110331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Rail_Cor_A.prefab
+  artifactKey: Guid(1f07ca988eec6324fba9740732d6eb4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Rail_Cor_A.prefab using Guid(1f07ca988eec6324fba9740732d6eb4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '403feb1cf038f4aafe9258e8870e80de') in 0.184207 seconds
+  Import took 0.187073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Sun_Temple/Prefabs/Natural/Prop_Stone_Grouped_C.prefab
+  artifactKey: Guid(0df4af055187a9a4297cd0f5e6d070a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Natural/Prop_Stone_Grouped_C.prefab using Guid(0df4af055187a9a4297cd0f5e6d070a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3955bbf58395091cae1c90bf3240e39') in 0.057863 seconds
+  Import took 0.060942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Scaffolding_D.prefab
+  artifactKey: Guid(21116bb97bc134f4a98842fabbaf352d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Scaffolding_D.prefab using Guid(21116bb97bc134f4a98842fabbaf352d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e2607050331cacc4f8d0a76457712e4') in 0.112880 seconds
+  Import took 0.116511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/GothicUI/Prefabs/Buttons/TinyLightButton.prefab
+  artifactKey: Guid(413be79ec709ccf49b7673a4514ecb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicUI/Prefabs/Buttons/TinyLightButton.prefab using Guid(413be79ec709ccf49b7673a4514ecb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3efdce5e55055835eaf5f93f1c27cda') in 0.007049 seconds
+  Import took 0.009265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_BookCase_C.prefab
+  artifactKey: Guid(dec6ef9c11a3dc842958b7ff60db1625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_BookCase_C.prefab using Guid(dec6ef9c11a3dc842958b7ff60db1625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb295d345608fdf2ac5e400c52dba49d') in 0.065442 seconds
+  Import took 0.068563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_KitchenPot_G.prefab
+  artifactKey: Guid(fb48494660836ed44ae9d229d6c8fc29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_KitchenPot_G.prefab using Guid(fb48494660836ed44ae9d229d6c8fc29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4c5b1c0b076d9cf41ddfb671671a40b') in 0.043572 seconds
+  Import took 0.046042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_BookCase_Mid_A.prefab
+  artifactKey: Guid(de2d422ad83a4b84289d045233d0f53c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_BookCase_Mid_A.prefab using Guid(de2d422ad83a4b84289d045233d0f53c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dedcce7263fae2eb16a620df0d49a63') in 0.055381 seconds
+  Import took 0.057760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_BookStash_A.prefab
+  artifactKey: Guid(c7478685ee6ca0f4cbc80661cd762a56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_BookStash_A.prefab using Guid(c7478685ee6ca0f4cbc80661cd762a56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d0b22eba4154f53a9a2a5c4bece9107') in 0.015452 seconds
+  Import took 0.018494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Sun_Temple/Prefabs/Natural/Rock_Facing_D.prefab
+  artifactKey: Guid(42d517adf3a964e43a5562963674a10c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Natural/Rock_Facing_D.prefab using Guid(42d517adf3a964e43a5562963674a10c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55817869cf2994e95893fcf11cfdb018') in 0.056817 seconds
+  Import took 0.059655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Scaffolding_A.prefab
+  artifactKey: Guid(335b77466bbb30b46a6ac42695381cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Scaffolding_A.prefab using Guid(335b77466bbb30b46a6ac42695381cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6678a3b0921ba6843997362be4b9c05b') in 0.101452 seconds
+  Import took 0.104200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Ramp_D.prefab
+  artifactKey: Guid(036000dfce47fc9459948490fed7f24c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Ramp_D.prefab using Guid(036000dfce47fc9459948490fed7f24c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95b13ac205fc00fac8748de5362e01e8') in 0.242180 seconds
+  Import took 0.245380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/GothicUI/Prefabs/Buttons/TinyDarkButton 1.prefab
+  artifactKey: Guid(b6566bb21be9ae94e8858c449e661844) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicUI/Prefabs/Buttons/TinyDarkButton 1.prefab using Guid(b6566bb21be9ae94e8858c449e661844) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22bdafd805801e728e2dc76999bdfe6f') in 0.008029 seconds
+  Import took 0.010120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/GothicUI/Prefabs/Buttons/WideLightButton.prefab
+  artifactKey: Guid(448a54db3b35a3c4f9c9769d8cae0aee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicUI/Prefabs/Buttons/WideLightButton.prefab using Guid(448a54db3b35a3c4f9c9769d8cae0aee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c48744542508dcb2835bcd5d2924385f') in 0.009061 seconds
+  Import took 0.012522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_Spoon_A.prefab
+  artifactKey: Guid(5d941b015fdcd984cbd8165c3bf848f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_Spoon_A.prefab using Guid(5d941b015fdcd984cbd8165c3bf848f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5b11f74d5ae3d4f8a4854d99237e2ba') in 0.057844 seconds
+  Import took 0.061605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Curb_B.prefab
+  artifactKey: Guid(ee70cca17c0639b4ab85d0fad1836950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Curb_B.prefab using Guid(ee70cca17c0639b4ab85d0fad1836950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7488748ac031a197d13baf719df9513a') in 0.018548 seconds
+  Import took 0.021548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Curb_F.prefab
+  artifactKey: Guid(846f57b436f02034d96b7963ab1508ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Curb_F.prefab using Guid(846f57b436f02034d96b7963ab1508ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0aa6efbf62ec5e9bc573750dcc1c9b0c') in 0.021403 seconds
+  Import took 0.024294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_KitchenPlate_B.prefab
+  artifactKey: Guid(4edb6ce78a4586f49bc8f40cc79c9981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_KitchenPlate_B.prefab using Guid(4edb6ce78a4586f49bc8f40cc79c9981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a21d1c279ba8569887f1e9f98d60cd9') in 0.016074 seconds
+  Import took 0.019858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Ramp_C.prefab
+  artifactKey: Guid(c3d4c85971a043d429b3b1ae6741f40f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Ramp_C.prefab using Guid(c3d4c85971a043d429b3b1ae6741f40f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da314a5ae37483846607f4b29301a746') in 0.237543 seconds
+  Import took 0.240392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Scaffolding_Ramp_A.prefab
+  artifactKey: Guid(36c0244a213aa8d4d80b24aa83b6ebcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Scaffolding_Ramp_A.prefab using Guid(36c0244a213aa8d4d80b24aa83b6ebcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78985d45ac9c11ed24a5dccd9b70fb11') in 0.061014 seconds
+  Import took 0.063255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_KitchenHanger_A.prefab
+  artifactKey: Guid(ce7f4c2247405e6408f3d6f252e58185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_KitchenHanger_A.prefab using Guid(ce7f4c2247405e6408f3d6f252e58185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fbb49f4f79b8a611b3c80fc7a30af8a') in 0.080327 seconds
+  Import took 0.083432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Scaffolding_C.prefab
+  artifactKey: Guid(edbb8b05b735eb84285a18002ecd03ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Scaffolding_C.prefab using Guid(edbb8b05b735eb84285a18002ecd03ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bac7c8ed1a48d7fa2fd4874a35dcd76') in 0.098607 seconds
+  Import took 0.101432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/GothicUI/Prefabs/Buttons/TinyShieldButton.prefab
+  artifactKey: Guid(4162674abe506294d95f48fb190ea5ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicUI/Prefabs/Buttons/TinyShieldButton.prefab using Guid(4162674abe506294d95f48fb190ea5ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d032422cb05c5d37f68e215eea5a2ad') in 0.006917 seconds
+  Import took 0.009495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_Rug_I.prefab
+  artifactKey: Guid(aa24731d3d17499478d554c1754b458b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_Rug_I.prefab using Guid(aa24731d3d17499478d554c1754b458b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '656434ac8508807354b84df60c0c20ec') in 0.015869 seconds
+  Import took 0.018308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_BookStash_B.prefab
+  artifactKey: Guid(866344a53a20a054786963dcd6c81008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_BookStash_B.prefab using Guid(866344a53a20a054786963dcd6c81008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a710cddffff6b4f2e89972378bb3aef7') in 0.017780 seconds
+  Import took 0.020192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_Rug_G.prefab
+  artifactKey: Guid(5f2f84301e54e1847a31c7f5930ba002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_Rug_G.prefab using Guid(5f2f84301e54e1847a31c7f5930ba002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c469907b00ee0a465a3e0d38082be16f') in 0.014166 seconds
+  Import took 0.016579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_ArcWall_Column_A.prefab
+  artifactKey: Guid(5b6194e3325628b42aac369f02b731d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_ArcWall_Column_A.prefab using Guid(5b6194e3325628b42aac369f02b731d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '192292c6f0c381d8d273a5832e443958') in 0.043902 seconds
+  Import took 0.046687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_KitchenFlower_A.prefab
+  artifactKey: Guid(170221896f6c0994c8b842ff74a61f39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_KitchenFlower_A.prefab using Guid(170221896f6c0994c8b842ff74a61f39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54cd617238be85f48a802fb60fa0fca2') in 0.054406 seconds
+  Import took 0.057167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_KitchenPot_D.prefab
+  artifactKey: Guid(fbe89a2a85f8f4042bcd1a9844365407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_KitchenPot_D.prefab using Guid(fbe89a2a85f8f4042bcd1a9844365407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '762d19cc02303c199ba02624997bad94') in 0.017424 seconds
+  Import took 0.019991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_Sofa_A.prefab
+  artifactKey: Guid(d1d642ba030d2f94591c61192aac12e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_Sofa_A.prefab using Guid(d1d642ba030d2f94591c61192aac12e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '163a8aab8dc49af8c3532281a1507599') in 0.059391 seconds
+  Import took 0.062478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Fullwall_Cor_A.prefab
+  artifactKey: Guid(f66e48bb36748f044b2530ece779c97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Fullwall_Cor_A.prefab using Guid(f66e48bb36748f044b2530ece779c97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '493341d3586bf96faae6a4e8df7c3bbc') in 0.167387 seconds
+  Import took 0.170152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Sun_Temple/Prefabs/Natural/Prop_Stone_Grouped_A.prefab
+  artifactKey: Guid(8ec2eef4755c0944099aae74b8588db9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Natural/Prop_Stone_Grouped_A.prefab using Guid(8ec2eef4755c0944099aae74b8588db9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69b76e6a063e0fa0a8c7c51ec2783f15') in 0.045114 seconds
+  Import took 0.047796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Sun_Temple/Prefabs/Natural/Prop_Stone_Grouped_E.prefab
+  artifactKey: Guid(aa7ef19d059c6a248ad092ef15c7f17c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Natural/Prop_Stone_Grouped_E.prefab using Guid(aa7ef19d059c6a248ad092ef15c7f17c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a8cf6daa38e773a54470e0078ee2582') in 0.044956 seconds
+  Import took 0.048392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Curb_E.prefab
+  artifactKey: Guid(cec6785d722d0a64984a75ded85be448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Curb_E.prefab using Guid(cec6785d722d0a64984a75ded85be448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af94c89aadd7da9a8edc79a84ff628c9') in 0.019199 seconds
+  Import took 0.021995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Reinf_C.prefab
+  artifactKey: Guid(9ffedc7fa7018ba45937cdd723d1499b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Reinf_C.prefab using Guid(9ffedc7fa7018ba45937cdd723d1499b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c09303c5989c1d665503e6ff248848d8') in 0.055304 seconds
+  Import took 0.057785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Curb_A_Half.prefab
+  artifactKey: Guid(af7674e436fe1454f8209b5a4ac9bb74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Curb_A_Half.prefab using Guid(af7674e436fe1454f8209b5a4ac9bb74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3803b35a8e9a00c8a09c2c983e5b88c5') in 0.017328 seconds
+  Import took 0.019929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_GrainSack_C.prefab
+  artifactKey: Guid(36887a9aa09c1e8498b1a0f12c243025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_GrainSack_C.prefab using Guid(36887a9aa09c1e8498b1a0f12c243025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c11306e8616a4b539b740533c6c43810') in 0.015572 seconds
+  Import took 0.018274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_GrainSack_A.prefab
+  artifactKey: Guid(79a0edb228108234fa62b72895beac8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_GrainSack_A.prefab using Guid(79a0edb228108234fa62b72895beac8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83da39e11e42b6775635f28dd625ade0') in 0.016932 seconds
+  Import took 0.019525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Reinf_E.prefab
+  artifactKey: Guid(f8448754b8894c8499c71012f7884251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Reinf_E.prefab using Guid(f8448754b8894c8499c71012f7884251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25015bf6627f2a530864cead5f28c654') in 0.075184 seconds
+  Import took 0.077872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Curb_D.prefab
+  artifactKey: Guid(e1c010f7f13e8ff4881e8297d2cddaa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Curb_D.prefab using Guid(e1c010f7f13e8ff4881e8297d2cddaa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28bd8c6cec4434af92b0955dd71eac25') in 0.016536 seconds
+  Import took 0.019159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/GothicUI/Prefabs/Buttons/WideBorderLightButton.prefab
+  artifactKey: Guid(1ad22abb5a89b9a459f62e613a930592) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicUI/Prefabs/Buttons/WideBorderLightButton.prefab using Guid(1ad22abb5a89b9a459f62e613a930592) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a1fd450e7d9ff939d117de43275e663') in 0.007414 seconds
+  Import took 0.009908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_Rug_F.prefab
+  artifactKey: Guid(a9e4b32419c818e48a479aabeeac97b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_Rug_F.prefab using Guid(a9e4b32419c818e48a479aabeeac97b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6f94e63247c1dc7dc87c82d29bbfa9f') in 0.012983 seconds
+  Import took 0.015374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_Spoon_D.prefab
+  artifactKey: Guid(cc95eea423ff50544b09a194d823eb5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_Spoon_D.prefab using Guid(cc95eea423ff50544b09a194d823eb5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c5db00db613a4a08e61a1b115374e5f') in 0.031033 seconds
+  Import took 0.033653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_Garlic_B.prefab
+  artifactKey: Guid(7c49aa001d1326a41b72323704ac7410) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_Garlic_B.prefab using Guid(7c49aa001d1326a41b72323704ac7410) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9435b7a6e38b4334b3482bd540261259') in 0.017518 seconds
+  Import took 0.019985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Rail_Mid_A.prefab
+  artifactKey: Guid(ccb2e0e4cd86b1e49837661f7dcf8769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Rail_Mid_A.prefab using Guid(ccb2e0e4cd86b1e49837661f7dcf8769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ffafe87f9839ab79a5785b4a23bc25f') in 0.021619 seconds
+  Import took 0.024145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Reinf_A.prefab
+  artifactKey: Guid(47699abf5da877648a8ebf40fc56e2c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Reinf_A.prefab using Guid(47699abf5da877648a8ebf40fc56e2c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70051c80bf5aeda4d7dadbee337af6e8') in 0.076618 seconds
+  Import took 0.079207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/GothicUI/Prefabs/Buttons/TinyDarkButton.prefab
+  artifactKey: Guid(765d9b02e2189e343922dadad25c0865) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicUI/Prefabs/Buttons/TinyDarkButton.prefab using Guid(765d9b02e2189e343922dadad25c0865) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '224630c087e35b67c1a85c345dc333f3') in 0.006962 seconds
+  Import took 0.009870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_KitchenJug_A.prefab
+  artifactKey: Guid(e59029e0cae10a1439fa19be8789b1e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_KitchenJug_A.prefab using Guid(e59029e0cae10a1439fa19be8789b1e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9e909354335cba6e6c29367f1dd03f7') in 0.058722 seconds
+  Import took 0.061615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_KitchenFlower_B.prefab
+  artifactKey: Guid(11b40aea5b33e9446bef60ffba394d6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_KitchenFlower_B.prefab using Guid(11b40aea5b33e9446bef60ffba394d6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd8e830abbf38974cea35c0a46d293f6') in 0.035746 seconds
+  Import took 0.038279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_Rug_J.prefab
+  artifactKey: Guid(3c9be7d135d6b0a4aa02e250149fd1a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_Rug_J.prefab using Guid(3c9be7d135d6b0a4aa02e250149fd1a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbaa30c51eacb63cf22e806371c31559') in 0.012587 seconds
+  Import took 0.015043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_KitchenPlate_A.prefab
+  artifactKey: Guid(3b9d0c51ae94f504db03330fa6ad9e17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_KitchenPlate_A.prefab using Guid(3b9d0c51ae94f504db03330fa6ad9e17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67dff2a71768b2ca79f36fb84aa29ef5') in 0.019108 seconds
+  Import took 0.021621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Sun_Temple/Prefabs/Natural/Prop_Stone_Grouped_D.prefab
+  artifactKey: Guid(8c2876b9634d14f44b41570e2fc0a18f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Natural/Prop_Stone_Grouped_D.prefab using Guid(8c2876b9634d14f44b41570e2fc0a18f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5e2547817121024213e2cb8209bffc0') in 0.045282 seconds
+  Import took 0.048371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Reinf_D.prefab
+  artifactKey: Guid(5238b0320e9bc814f9a32b3647bd48b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Reinf_D.prefab using Guid(5238b0320e9bc814f9a32b3647bd48b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46f3345e443ded0c6a6b11b81f86ad20') in 0.073773 seconds
+  Import took 0.076510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Tarp_A.prefab
+  artifactKey: Guid(50266fe0057845944a0c3d0c97d98c41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Tarp_A.prefab using Guid(50266fe0057845944a0c3d0c97d98c41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e58452d81013d12c55950d256bcd00a') in 0.073233 seconds
+  Import took 0.075769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Rail_Mid_B.prefab
+  artifactKey: Guid(46633602e5c19d24faeb8d3c4b99008e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Rail_Mid_B.prefab using Guid(46633602e5c19d24faeb8d3c4b99008e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c92dff7ebe008749e634c35daa6c0ac3') in 0.185659 seconds
+  Import took 0.188644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/GothicUI/Prefabs/Buttons/TinyDarkBorderButton.prefab
+  artifactKey: Guid(4b3f2e97e20f0854184739c0b213b144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicUI/Prefabs/Buttons/TinyDarkBorderButton.prefab using Guid(4b3f2e97e20f0854184739c0b213b144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd86cb47be53dbe4f3b2e0b3ec143fa79') in 0.009921 seconds
+  Import took 0.012845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Stairs_A.prefab
+  artifactKey: Guid(1414a769efd2da04192822135a0a73b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Stairs_A.prefab using Guid(1414a769efd2da04192822135a0a73b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '680528d42273f435098ee647ac915151') in 0.177788 seconds
+  Import took 0.180258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_KitchenJug_B.prefab
+  artifactKey: Guid(b460f8ce26073da48bcaef93de18143f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_KitchenJug_B.prefab using Guid(b460f8ce26073da48bcaef93de18143f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3896b36044e0304810b7638ed8d2ae8b') in 0.063176 seconds
+  Import took 0.065529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Reinf_B.prefab
+  artifactKey: Guid(a3d63222c0273bf459f599a7e29ea9c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Reinf_B.prefab using Guid(a3d63222c0273bf459f599a7e29ea9c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b261b144d49f5b06105a7490c9d39898') in 0.075798 seconds
+  Import took 0.078755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Rail_Junc_A.prefab
+  artifactKey: Guid(d87edf8b01b11994f9496c96c8f3ed0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Rail_Junc_A.prefab using Guid(d87edf8b01b11994f9496c96c8f3ed0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '988c0c6c13b6b1714ca2697cf5454d8b') in 0.183002 seconds
+  Import took 0.185986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Scaffolding_B.prefab
+  artifactKey: Guid(6a2099b048541ba40850163467fc470a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Scaffolding_B.prefab using Guid(6a2099b048541ba40850163467fc470a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ea6847df871d7fe46fb30814dd2c26a') in 0.099444 seconds
+  Import took 0.101839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Rail_Junc_A.prefab
+  artifactKey: Guid(d87edf8b01b11994f9496c96c8f3ed0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Rail_Junc_A.prefab using Guid(d87edf8b01b11994f9496c96c8f3ed0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '988c0c6c13b6b1714ca2697cf5454d8b') in 0.182690 seconds
+  Import took 0.184993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_FoodBasket_D.prefab
+  artifactKey: Guid(e5dad237271a3504ba9b49b825f92891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_FoodBasket_D.prefab using Guid(e5dad237271a3504ba9b49b825f92891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fee424857e1487f51f4466a8005a168e') in 0.023604 seconds
+  Import took 0.025833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Sun_Temple/Prefabs/Natural/Rock_Short.prefab
+  artifactKey: Guid(bc8766ba752f53344b82328d07c77888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Natural/Rock_Short.prefab using Guid(bc8766ba752f53344b82328d07c77888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c32a7dc6d7d3a86ff3cf0a0e717bf30') in 0.061801 seconds
+  Import took 0.064887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Curb_G.prefab
+  artifactKey: Guid(b82be8e4b42ce034b90693a91d5748d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Curb_G.prefab using Guid(b82be8e4b42ce034b90693a91d5748d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fbe8bff1706bef4649cf1f3932ecd05') in 0.169468 seconds
+  Import took 0.172487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Pavement_C.prefab
+  artifactKey: Guid(767cdc4fbe8d4b142a85a6c73dc2daff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Pavement_C.prefab using Guid(767cdc4fbe8d4b142a85a6c73dc2daff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '628acd7fd75ae3435cbdd424ae01c241') in 0.057607 seconds
+  Import took 0.060341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Ramp_B.prefab
+  artifactKey: Guid(41f62565cc4ddbd4da0b1be836d44852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Ramp_B.prefab using Guid(41f62565cc4ddbd4da0b1be836d44852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5bed9fda8a7e26f4cf1d69b0b8543ac') in 0.236417 seconds
+  Import took 0.240043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Halfwall_Cor_A.prefab
+  artifactKey: Guid(b155b84b9b528ca42a45947bc7604707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Halfwall_Cor_A.prefab using Guid(b155b84b9b528ca42a45947bc7604707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6796960d2adfd68d98306a27a7dfb67') in 0.112564 seconds
+  Import took 0.114728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Curb_Transition_A.prefab
+  artifactKey: Guid(11202154389e99f4f8067cd53578b15d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Curb_Transition_A.prefab using Guid(11202154389e99f4f8067cd53578b15d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0be516138aa9dc9867a78001614a7be1') in 0.140438 seconds
+  Import took 0.143195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_BookCase_Top_A.prefab
+  artifactKey: Guid(2ad9cc1b2652c6842bc974dc2a797e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_BookCase_Top_A.prefab using Guid(2ad9cc1b2652c6842bc974dc2a797e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c53095f65fa26b2bf4aa27b34c7816a0') in 0.058220 seconds
+  Import took 0.060616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_BookStash_C.prefab
+  artifactKey: Guid(34c98331ba35610458097caed1a3d6ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_BookStash_C.prefab using Guid(34c98331ba35610458097caed1a3d6ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f376c947bbd28eac039ccf9bdd8ee3bf') in 0.016659 seconds
+  Import took 0.019313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_Spoon_B.prefab
+  artifactKey: Guid(cb8431302f430cf4593610685e33901d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_Spoon_B.prefab using Guid(cb8431302f430cf4593610685e33901d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '351fa2aa25be92124224aee1b7d9eb17') in 0.058995 seconds
+  Import took 0.061800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_Rug_H.prefab
+  artifactKey: Guid(9591f15facbe44e4986572607af2dc73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_Rug_H.prefab using Guid(9591f15facbe44e4986572607af2dc73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78e2c9281f0c7c0ffe22a91fc39f586a') in 0.013239 seconds
+  Import took 0.015390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/GothicUI/Prefabs/Buttons/TinyLightkButton.prefab
+  artifactKey: Guid(8b73279a32cc3af4ab6e20795ff3a098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicUI/Prefabs/Buttons/TinyLightkButton.prefab using Guid(8b73279a32cc3af4ab6e20795ff3a098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e215ee14918c18ff275f845a5f3cb4b6') in 0.007135 seconds
+  Import took 0.009441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Pavement_A.prefab
+  artifactKey: Guid(018ce94151b61ae489a5909c3b041d06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Pavement_A.prefab using Guid(018ce94151b61ae489a5909c3b041d06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c11c8fd5aca2b7ba16939783544274d') in 0.054333 seconds
+  Import took 0.057028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Pavement_B.prefab
+  artifactKey: Guid(e60ae60c56920e44e94b76d19fc4d9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Pavement_B.prefab using Guid(e60ae60c56920e44e94b76d19fc4d9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35b97558bce7f5d8a58b52836f461548') in 0.054114 seconds
+  Import took 0.056638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Sun_Temple/Prefabs/Natural/Rock_Facing_E.prefab
+  artifactKey: Guid(663cd5104e3aabd4da3ecd606d76103f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Natural/Rock_Facing_E.prefab using Guid(663cd5104e3aabd4da3ecd606d76103f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02376ddd71d92c230c4f87cff5b02042') in 0.078900 seconds
+  Import took 0.081155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Sun_Temple/Prefabs/Natural/Prop_Stone_Grouped_B.prefab
+  artifactKey: Guid(fe40cc7ca22d49c499b975cb6aeb09e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Natural/Prop_Stone_Grouped_B.prefab using Guid(fe40cc7ca22d49c499b975cb6aeb09e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45baeef833d1f8991e2b92b55af47d52') in 0.047407 seconds
+  Import took 0.050009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Halfwall_Mid_A.prefab
+  artifactKey: Guid(76170494dfa0ec04391f3f570fca57d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Halfwall_Mid_A.prefab using Guid(76170494dfa0ec04391f3f570fca57d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be09aee7b030dd0383f1e459e6ce4e1b') in 0.105977 seconds
+  Import took 0.108757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/GothicUI/Prefabs/Sliders/ScrollBar.prefab
+  artifactKey: Guid(855ae1312ed6d74419bff36c376a7d91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicUI/Prefabs/Sliders/ScrollBar.prefab using Guid(855ae1312ed6d74419bff36c376a7d91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecceec468c695d58e9956dad45f726ba') in 0.015320 seconds
+  Import took 0.017841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Fullwall_Mid_C.prefab
+  artifactKey: Guid(6f5dfe200c2d9304d9becd5682949cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Fullwall_Mid_C.prefab using Guid(6f5dfe200c2d9304d9becd5682949cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bb9d675a5d06a6c3c3eabdb3000b253') in 0.181621 seconds
+  Import took 0.184619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/GothicUI/Prefabs/Buttons/WideBorderDarkButton.prefab
+  artifactKey: Guid(377bcb80a1796ed41b0f4692f8ad296b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicUI/Prefabs/Buttons/WideBorderDarkButton.prefab using Guid(377bcb80a1796ed41b0f4692f8ad296b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03d1cd967947d97979a13ca3f3bd9305') in 0.008447 seconds
+  Import took 0.011513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Rail_Junc_C.prefab
+  artifactKey: Guid(9058471a21d4e004fad976d4bf6cbdd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Rail_Junc_C.prefab using Guid(9058471a21d4e004fad976d4bf6cbdd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6595c4f1a2b459ec13ee330c7285a43e') in 0.172756 seconds
+  Import took 0.175074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_KitchenPot_C.prefab
+  artifactKey: Guid(04113d4a773cc2e459f4fd585ee23f78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_KitchenPot_C.prefab using Guid(04113d4a773cc2e459f4fd585ee23f78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b1c8aeca17fe14d151d29fa63e8dedb') in 0.017937 seconds
+  Import took 0.020945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_Sofa_B.prefab
+  artifactKey: Guid(109311ae22786fa4689248ba85a3e6a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_Sofa_B.prefab using Guid(109311ae22786fa4689248ba85a3e6a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06c24961d3cb3732ee209a35caf66c53') in 0.072201 seconds
+  Import took 0.075200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/GothicUI/Prefabs/Buttons/WideDarkButton.prefab
+  artifactKey: Guid(18391fa1ba7734f42b682cd9c8fa6779) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicUI/Prefabs/Buttons/WideDarkButton.prefab using Guid(18391fa1ba7734f42b682cd9c8fa6779) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64d5aa3cfd6f80d64972f11224641e21') in 0.007049 seconds
+  Import took 0.009833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Reinf_F.prefab
+  artifactKey: Guid(5711e34e19b3a904cbd26aac1fbbdf7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Reinf_F.prefab using Guid(5711e34e19b3a904cbd26aac1fbbdf7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f4ad3458f777bfa95e390c74d00e989') in 0.057782 seconds
+  Import took 0.060910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_KitchenHanger_B.prefab
+  artifactKey: Guid(a587bd35675415b43a8844da6f8cf1e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_KitchenHanger_B.prefab using Guid(a587bd35675415b43a8844da6f8cf1e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebabc978330705e9cf0fe560c0bc066a') in 0.080309 seconds
+  Import took 0.082834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_ArcWall_A.prefab
+  artifactKey: Guid(818924cb43180bc45b426ef79e4bf9df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_ArcWall_A.prefab using Guid(818924cb43180bc45b426ef79e4bf9df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97665d460d0971269d1ef55487cc491c') in 0.072676 seconds
+  Import took 0.075114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Stairs_B.prefab
+  artifactKey: Guid(67792c850ef72f842a6388db4d93b9c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Stairs_B.prefab using Guid(67792c850ef72f842a6388db4d93b9c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f70e256dedf83d45cefbfd1e0f82c00') in 0.168257 seconds
+  Import took 0.170871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_Rug_K.prefab
+  artifactKey: Guid(cd71b6e453619b54ea342751cc4ea1eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_Rug_K.prefab using Guid(cd71b6e453619b54ea342751cc4ea1eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd5727001c7902d55c9c43a7e5cd3384') in 0.014445 seconds
+  Import took 0.017204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_KitchenPot_E.prefab
+  artifactKey: Guid(5f713eae62bfe3b4bab6f0a0e60b4e11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_KitchenPot_E.prefab using Guid(5f713eae62bfe3b4bab6f0a0e60b4e11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dd529daf4862de88712e70815db6f73') in 0.077892 seconds
+  Import took 0.081124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_BookCase_E.prefab
+  artifactKey: Guid(88c71ab919a8a31458c033170fff5e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_BookCase_E.prefab using Guid(88c71ab919a8a31458c033170fff5e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1466849c77480471cba5676d49c8f6ec') in 0.066230 seconds
+  Import took 0.069388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Curb_A.prefab
+  artifactKey: Guid(7c51d4d823653614b83b587b563d4bbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Curb_A.prefab using Guid(7c51d4d823653614b83b587b563d4bbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6261feb228f5aeb2f9ecb600a6561b4') in 0.017169 seconds
+  Import took 0.019556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_Spoon_C.prefab
+  artifactKey: Guid(6cf0a3cf558b26c46b72feef93a52adc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_Spoon_C.prefab using Guid(6cf0a3cf558b26c46b72feef93a52adc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b76975224b130dc7d5fd933f7e0984d2') in 0.053844 seconds
+  Import took 0.056787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_Rug_L.prefab
+  artifactKey: Guid(03acb0010dac679459d0d667eb559244) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_Rug_L.prefab using Guid(03acb0010dac679459d0d667eb559244) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91e9aa03f3314c6a97fa5911ce409dff') in 0.014448 seconds
+  Import took 0.016891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_KitchenPot_A.prefab
+  artifactKey: Guid(a5b2f603be4d5ff4f80ce33db091fec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_KitchenPot_A.prefab using Guid(a5b2f603be4d5ff4f80ce33db091fec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7d5460bd3c0a97c603b7ec137925395') in 0.030738 seconds
+  Import took 0.033369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_KitchenPot_B.prefab
+  artifactKey: Guid(d8baf25b67f480b4e9a41e4910455e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_KitchenPot_B.prefab using Guid(d8baf25b67f480b4e9a41e4910455e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bedbafc70ce6f26d8c1f266c6e987ca4') in 0.029618 seconds
+  Import took 0.032524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Halfwall_Stairs_A.prefab
+  artifactKey: Guid(205641b4dddef7747857b42ccd77fc5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Halfwall_Stairs_A.prefab using Guid(205641b4dddef7747857b42ccd77fc5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b153559e33571623b751180c1910ec4') in 0.107267 seconds
+  Import took 0.110142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Halfwall_Junc_A.prefab
+  artifactKey: Guid(75a984e8f5c28ba498a6b27bf8c52660) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Halfwall_Junc_A.prefab using Guid(75a984e8f5c28ba498a6b27bf8c52660) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42e3d460e902a5c63d8161c98ee53b82') in 0.104396 seconds
+  Import took 0.107342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 88.966998 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_Lamp_A.prefab
+  artifactKey: Guid(827450b8345a2d240a9d7a408e741a5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_Lamp_A.prefab using Guid(827450b8345a2d240a9d7a408e741a5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6c9418b05bcf54852f45cb9b9c0eaff') in 0.078325 seconds
+  Import took 0.082765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_Lamp_A_Lit.prefab
+  artifactKey: Guid(e4d1466de28e8ca4cae4d91f22a712b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_Lamp_A_Lit.prefab using Guid(e4d1466de28e8ca4cae4d91f22a712b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e156ade59147fa46fbc7c986686e6ae0') in 0.060872 seconds
+  Import took 0.063924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_Lamp_A.prefab
+  artifactKey: Guid(827450b8345a2d240a9d7a408e741a5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_Lamp_A.prefab using Guid(827450b8345a2d240a9d7a408e741a5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6c9418b05bcf54852f45cb9b9c0eaff') in 0.056057 seconds
+  Import took 0.059645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_Lamp_A_Lit.prefab
+  artifactKey: Guid(e4d1466de28e8ca4cae4d91f22a712b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_Lamp_A_Lit.prefab using Guid(e4d1466de28e8ca4cae4d91f22a712b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e156ade59147fa46fbc7c986686e6ae0') in 0.052018 seconds
+  Import took 0.054643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_Lamp_B.prefab
+  artifactKey: Guid(9dd065d9d418c4544a7396b6e563ebac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_Lamp_B.prefab using Guid(9dd065d9d418c4544a7396b6e563ebac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6634de33a267ae4e4c1dc623df71d3c') in 0.038455 seconds
+  Import took 0.041544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_Lamp_B_Lit.prefab
+  artifactKey: Guid(269fc55db023a08409275ddcef9e39aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_Lamp_B_Lit.prefab using Guid(269fc55db023a08409275ddcef9e39aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '836d372df1bd840a25e9b702c747e86c') in 0.033802 seconds
+  Import took 0.035974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_Lamp_C.prefab
+  artifactKey: Guid(28938b74bdff49949a6ef8042e6914eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_Lamp_C.prefab using Guid(28938b74bdff49949a6ef8042e6914eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c35f5f7ac50eed12e87741b99bc2cd4') in 0.036853 seconds
+  Import took 0.039861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_Lamp_B_Lit.prefab
+  artifactKey: Guid(269fc55db023a08409275ddcef9e39aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_Lamp_B_Lit.prefab using Guid(269fc55db023a08409275ddcef9e39aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '836d372df1bd840a25e9b702c747e86c') in 0.029989 seconds
+  Import took 0.032497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006925 seconds.
+  path: Assets/Sun_Temple/Prefabs/Props/Prop_Lamp_C.prefab
+  artifactKey: Guid(28938b74bdff49949a6ef8042e6914eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Prefabs/Props/Prop_Lamp_C.prefab using Guid(28938b74bdff49949a6ef8042e6914eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c35f5f7ac50eed12e87741b99bc2cd4') in 0.032063 seconds
+  Import took 0.034477 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001279 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.367 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1172 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 216.1 MB.
+System memory in use after: 215.9 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1703.
+Total: 2.141874 ms (FindLiveObjects: 0.161491 ms CreateObjectMapping: 0.041205 ms MarkObjects: 1.473464 ms  DeleteObjects: 0.464716 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001938 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.025 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1172 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 218.0 MB.
+System memory in use after: 217.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1706.
+Total: 2.262811 ms (FindLiveObjects: 0.155035 ms CreateObjectMapping: 0.038159 ms MarkObjects: 1.561534 ms  DeleteObjects: 0.506798 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000631 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.946 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1172 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 219.9 MB.
+System memory in use after: 219.7 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1709.
+Total: 2.598382 ms (FindLiveObjects: 0.185270 ms CreateObjectMapping: 0.048575 ms MarkObjects: 1.876690 ms  DeleteObjects: 0.486498 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001261 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.963 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1172 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 221.9 MB.
+System memory in use after: 221.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1712.
+Total: 2.139531 ms (FindLiveObjects: 0.157536 ms CreateObjectMapping: 0.039558 ms MarkObjects: 1.420242 ms  DeleteObjects: 0.520900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 673.795794 seconds.
+  path: Assets/Scripts/AI
+  artifactKey: Guid(f8b3e0b74873e42578cd2fbb1182f3ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AI using Guid(f8b3e0b74873e42578cd2fbb1182f3ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bd4900cf80aef0f7281a9688b14d73f') in 0.006320 seconds
+  Import took 0.008539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.030009 seconds.
+  path: Assets/Scripts/AI/EnemigoIA.cs
+  artifactKey: Guid(1f66226188ee747cebabd814a367aaaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AI/EnemigoIA.cs using Guid(1f66226188ee747cebabd814a367aaaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2762240bd3cb3fbffba04d52bcc5245c') in 0.005816 seconds
+  Import took 0.008483 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000645 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.839 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1173 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 223.8 MB.
+System memory in use after: 223.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1716.
+Total: 2.235256 ms (FindLiveObjects: 0.205416 ms CreateObjectMapping: 0.043478 ms MarkObjects: 1.497898 ms  DeleteObjects: 0.486498 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000815 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.847 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1173 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 225.6 MB.
+System memory in use after: 225.4 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1719.
+Total: 2.135963 ms (FindLiveObjects: 0.166984 ms CreateObjectMapping: 0.037042 ms MarkObjects: 1.423333 ms  DeleteObjects: 0.507571 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.630456 seconds.
+  path: Assets/Scripts/AI/EnemigoIA.cs
+  artifactKey: Guid(1f66226188ee747cebabd814a367aaaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AI/EnemigoIA.cs using Guid(1f66226188ee747cebabd814a367aaaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b310456cfe1cfafcc070d651d5dad490') in 0.006836 seconds
+  Import took 0.010206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.634111 seconds.
+  path: Assets/Sun_Temple/Content/Meshes/Main/Prop_Apple_A.fbx
+  artifactKey: Guid(2158330b8609759488e128407c6c408a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Content/Meshes/Main/Prop_Apple_A.fbx using Guid(2158330b8609759488e128407c6c408a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1999b7c35e6b85a8a720426c7243550e') in 0.404716 seconds
+  Import took 0.407481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010404 seconds.
+  path: Assets/Sun_Temple/Content/Meshes/Main/Prop_Apple_A.fbx
+  artifactKey: Guid(2158330b8609759488e128407c6c408a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sun_Temple/Content/Meshes/Main/Prop_Apple_A.fbx using Guid(2158330b8609759488e128407c6c408a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1999b7c35e6b85a8a720426c7243550e') in 0.019687 seconds
+  Import took 0.022083 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001209 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.972 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1173 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 232.1 MB.
+System memory in use after: 231.9 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1726.
+Total: 2.281636 ms (FindLiveObjects: 0.167673 ms CreateObjectMapping: 0.042134 ms MarkObjects: 1.618087 ms  DeleteObjects: 0.452526 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001876 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.571 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1173 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 234.0 MB.
+System memory in use after: 233.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1729.
+Total: 4.200339 ms (FindLiveObjects: 0.251834 ms CreateObjectMapping: 0.060214 ms MarkObjects: 2.929346 ms  DeleteObjects: 0.956648 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001103 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.562 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1173 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 236.0 MB.
+System memory in use after: 235.7 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1732.
+Total: 3.050602 ms (FindLiveObjects: 0.267119 ms CreateObjectMapping: 0.060178 ms MarkObjects: 2.073521 ms  DeleteObjects: 0.648304 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000831 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.601 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1173 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 237.9 MB.
+System memory in use after: 237.7 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1735.
+Total: 3.166771 ms (FindLiveObjects: 0.217962 ms CreateObjectMapping: 0.056767 ms MarkObjects: 2.216904 ms  DeleteObjects: 0.673591 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001720 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.312 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1173 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 239.7 MB.
+System memory in use after: 239.4 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1738.
+Total: 2.806235 ms (FindLiveObjects: 0.185456 ms CreateObjectMapping: 0.049180 ms MarkObjects: 1.978407 ms  DeleteObjects: 0.591800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000634 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.003 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1173 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 241.7 MB.
+System memory in use after: 241.4 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1741.
+Total: 2.224378 ms (FindLiveObjects: 0.200514 ms CreateObjectMapping: 0.047237 ms MarkObjects: 1.490800 ms  DeleteObjects: 0.482073 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000683 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.197 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1173 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 243.6 MB.
+System memory in use after: 243.4 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1744.
+Total: 3.224720 ms (FindLiveObjects: 0.275012 ms CreateObjectMapping: 0.067579 ms MarkObjects: 2.339637 ms  DeleteObjects: 0.540322 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002846 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.06 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.337 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1173 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 245.5 MB.
+System memory in use after: 245.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1747.
+Total: 6.275637 ms (FindLiveObjects: 0.321884 ms CreateObjectMapping: 0.088403 ms MarkObjects: 4.574646 ms  DeleteObjects: 1.285738 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001302 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.086 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1173 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 247.4 MB.
+System memory in use after: 247.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1750.
+Total: 4.317887 ms (FindLiveObjects: 0.438082 ms CreateObjectMapping: 0.124473 ms MarkObjects: 2.933500 ms  DeleteObjects: 0.817751 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002006 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.956 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1173 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 249.3 MB.
+System memory in use after: 249.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1753.
+Total: 3.326309 ms (FindLiveObjects: 0.257029 ms CreateObjectMapping: 0.063675 ms MarkObjects: 2.283988 ms  DeleteObjects: 0.719992 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001734 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.756 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1173 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 251.3 MB.
+System memory in use after: 251.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1756.
+Total: 3.211661 ms (FindLiveObjects: 0.232228 ms CreateObjectMapping: 0.058233 ms MarkObjects: 2.224438 ms  DeleteObjects: 0.695129 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001239 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.109 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1173 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 253.3 MB.
+System memory in use after: 253.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1759.
+Total: 4.079299 ms (FindLiveObjects: 0.315081 ms CreateObjectMapping: 0.075325 ms MarkObjects: 2.774862 ms  DeleteObjects: 0.911619 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001377 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.06 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.457 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1173 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 255.2 MB.
+System memory in use after: 254.9 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1762.
+Total: 6.023694 ms (FindLiveObjects: 0.396431 ms CreateObjectMapping: 0.099059 ms MarkObjects: 4.234765 ms  DeleteObjects: 1.290157 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000892 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.09 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.633 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1173 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 257.1 MB.
+System memory in use after: 256.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1765.
+Total: 3.514701 ms (FindLiveObjects: 0.318970 ms CreateObjectMapping: 0.088679 ms MarkObjects: 2.365624 ms  DeleteObjects: 0.739581 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000877 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.647 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1173 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 259.0 MB.
+System memory in use after: 258.7 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1768.
+Total: 3.424044 ms (FindLiveObjects: 0.369687 ms CreateObjectMapping: 0.073023 ms MarkObjects: 2.303213 ms  DeleteObjects: 0.676432 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001232 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.090 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1173 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 260.9 MB.
+System memory in use after: 260.7 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1771.
+Total: 2.357698 ms (FindLiveObjects: 0.188057 ms CreateObjectMapping: 0.043702 ms MarkObjects: 1.619344 ms  DeleteObjects: 0.481774 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001651 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.431 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1173 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 262.8 MB.
+System memory in use after: 262.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1774.
+Total: 2.816453 ms (FindLiveObjects: 0.247292 ms CreateObjectMapping: 0.057363 ms MarkObjects: 1.916673 ms  DeleteObjects: 0.593678 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001807 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.710 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1173 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 264.7 MB.
+System memory in use after: 264.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1777.
+Total: 3.386737 ms (FindLiveObjects: 0.267955 ms CreateObjectMapping: 0.063955 ms MarkObjects: 2.311569 ms  DeleteObjects: 0.741580 ms)
+
